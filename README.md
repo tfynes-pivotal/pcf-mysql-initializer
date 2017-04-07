@@ -2,7 +2,7 @@
 
 v0.1 Prototype
 
-Allows for you to run arbitrary SQL on a MySQL datatbase provisioned to Cloud Foundry.
+Allows for you to run arbitrary SQL on a MySQL database provisioned to Cloud Foundry.
 
 
 
